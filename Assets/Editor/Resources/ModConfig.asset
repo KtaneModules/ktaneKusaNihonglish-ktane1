@@ -14,13 +14,9 @@ MonoBehaviour:
   id: kusaNihonglish
   title: Kusa Nihonglish
   author: ktane1
-  description: 'A module dedicated to the already-graduated VTuber - Kiryu Coco. Thank
-    you once again for everything you did.
-
-
-    Idea/Manual by Whalien.
-
-    Assets took from the Spelling Bee module.'
-  version: 1.2
+  description: "A module dedicated to the already-graduated VTuber - Kiryu Coco. Thank
+    you once again for everything you did.\r\n\r\nIdea/Manual by Whalien.\r\nAssets
+    took from the Spelling Bee module.\r\nMod ID: kusaNihonglish\r\nManual Link: https://ktane.timwi.de/HTML/Kusa%20Nihonglish.html"
+  version: 1.2.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 618f1a983e3cfb74dbe0b3ff517f27f6, type: 3}
